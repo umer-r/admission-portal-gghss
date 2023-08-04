@@ -31,7 +31,8 @@ export const DetailsTable = () => {
         createData(2, "Address", "Inside Main Bazaar, Sarai Alamgir"),
         createData(3, "Postal Code", "	50000"),
         createData(4, "Strength (apx) 2023", "3500"),
-        createData(5, "Current Principle", "Tanveer Un Nisa")
+        createData(5, "EMIS Code", "34230003"),
+        createData(6, "Phone No.", "054-4651358")
        ];
        
   return (

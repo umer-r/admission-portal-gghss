@@ -3,8 +3,8 @@ import { Avatar } from "@mui/material"
 import gate from '../images/gate.jpeg';
 import entrance from '../images/enterance.jpeg';
 import garden from '../images/garden.jpeg';
-import hall from '../images/hall.jpeg';
-import lawn from '../images/lawn.jpeg';
+// import hall from '../images/hall.jpeg';
+// import lawn from '../images/lawn.jpeg';
 import display from '../images/display.jpeg';
 
 import Carousel from 'react-material-ui-carousel'
@@ -32,7 +32,7 @@ export const PhotoSlider = () => {
             images.map( (item, i) => 
             <Avatar
               variant="rounded"
-              sx={{ bgcolor: 'warning.light', width: imageWidth, height: imageHeight }}
+              sx={{ bgcolor: 'primary.light', width: imageWidth, height: imageHeight }}
               key={i}
               src={item}
             />
