@@ -7,6 +7,7 @@ import {
 } from "@mui/material"
 
 import SchoolIcon from "@mui/icons-material/School"
+import DownIcon from "@mui/icons-material/ArrowDownward"
 
 export const NavBar = () => {
     const handleButtonClick = () => {
@@ -25,7 +26,7 @@ export const NavBar = () => {
             GGHSS - Sarai
           </Typography>
         </div>
-        <Button color="inherit" variant="outlined" onClick={handleButtonClick}>
+        <Button color="inherit" variant="outlined" onClick={handleButtonClick} startIcon={<DownIcon/>}>
           Admissions
         </Button>
       </Toolbar>
