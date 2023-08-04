@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/admission-portal-gghss/static/css/main.073c9b0a.css",
-    "main.js": "/admission-portal-gghss/static/js/main.a5af4c59.js",
+    "main.js": "/admission-portal-gghss/static/js/main.da224eab.js",
     "static/js/787.a9beab79.chunk.js": "/admission-portal-gghss/static/js/787.a9beab79.chunk.js",
     "static/media/admissions_form_gghss_sarai.pdf": "/admission-portal-gghss/static/media/admissions_form_gghss_sarai.cc2b00eff6feb9c70bba.pdf",
     "static/media/garden.jpeg": "/admission-portal-gghss/static/media/garden.7484d9566e7b8636069c.jpeg",
@@ -10,11 +10,11 @@
     "static/media/display.jpeg": "/admission-portal-gghss/static/media/display.6ad9549555100756485d.jpeg",
     "index.html": "/admission-portal-gghss/index.html",
     "main.073c9b0a.css.map": "/admission-portal-gghss/static/css/main.073c9b0a.css.map",
-    "main.a5af4c59.js.map": "/admission-portal-gghss/static/js/main.a5af4c59.js.map",
+    "main.da224eab.js.map": "/admission-portal-gghss/static/js/main.da224eab.js.map",
     "787.a9beab79.chunk.js.map": "/admission-portal-gghss/static/js/787.a9beab79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a5af4c59.js"
+    "static/js/main.da224eab.js"
   ]
 }
